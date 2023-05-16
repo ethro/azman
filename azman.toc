@@ -1,0 +1,11 @@
+## Interface: 100002
+## Author: azman
+## Version: 0.1
+## Title: |cff4beb2cazman|r
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+## SavedVariablesPerCharacter: az_cvars
+
+Init.lua
+
+Core\load_core.xml
